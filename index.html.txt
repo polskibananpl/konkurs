@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Strona Główna Konkursu</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <!-- Pasek nawigacji -->
+  <nav>
+    <ul>
+      <li><a href="index.html">Strona Główna</a></li>
+      <li><a href="styczen.html">Styczeń</a></li>
+      <li><a href="luty.html">Luty</a></li>
+      <!-- Dodawaj kolejne miesiące według potrzeb, np. marzec.html, kwiecien.html itd. -->
+      <li><a href="regulamin.html">Regulamin</a></li>
+    </ul>
+  </nav>
+
+  <main>
+    <h1>Witaj na stronie naszego comiesięcznego konkursu!</h1>
+    <p>Na tej stronie znajdziesz informacje o uczestnikach i zwycięzcach naszego konkursu, który odbywa się raz w miesiącu.</p>
+    <p>Przejdź do interesującego Cię miesiąca w menu powyżej, aby zobaczyć listę uczestników i zwycięzcę.</p>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 - Mój konkurs</p>
+  </footer>
+
+</body>
+</html>

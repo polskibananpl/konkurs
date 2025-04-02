@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Konkurs - Styczeń</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <!-- Pasek nawigacji - identyczny jak w index.html -->
+  <nav>
+    <ul>
+      <li><a href="index.html">Strona Główna</a></li>
+      <li><a href="styczen.html" class="active">Styczeń</a></li>
+      <li><a href="luty.html">Luty</a></li>
+      <li><a href="regulamin.html">Regulamin</a></li>
+    </ul>
+  </nav>
+
+  <main>
+    <h1>Konkurs - Styczeń</h1>
+
+    <!-- Zwycięzca (wypisany większą czcionką; możemy użyć stylu text-transform w CSS lub HTML) -->
+    <h2 class="zwyciezca">Zwycięzca: MISTRZ_STYCZNIA</h2>
+
+    <!-- Lista uczestników -->
+    <section>
+      <h3>Uczestnicy:</h3>
+      <ul>
+        <li>nick1</li>
+        <li>nick2</li>
+        <li>nick3</li>
+        <li>nick4</li>
+        <!-- ... dodaj więcej, jeśli potrzebujesz ... -->
+      </ul>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 - Mój konkurs</p>
+  </footer>
+
+</body>
+</html>
